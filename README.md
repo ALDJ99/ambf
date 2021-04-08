@@ -1,8 +1,7 @@
 Hallo Pengguna A-MBF, Jika Kalian Ingin Pakai Script Ini Mohon Gunakan
 Akun Tumbal Dan Jangan Menggunakan Akun Pribadi Dan Gunakan Sewajarnya Saja
 Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun. 
-A-MBF Merupakan Script Simple Crack Dan Pastinya Mudah Di Gunakan Oleh Kalian Pengguna Termux
-. 
+
 Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
 * fb.me/gaaaarzxd
 * fb.me/gaaarzxd
