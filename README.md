@@ -3,8 +3,8 @@ Akun Tumbal Dan Jangan Menggunakan Akun Pribadi Dan Gunakan Sewajarnya Saja
 Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun. 
 
 Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
-* fb.me/gaaaarzxd
-* fb.me/gaaarzxd
+* fb.me/gaaaarzxd (profile pribadi)
+* fb.me/gaaarzxd (fans page) 
 
 # Perintah
 ```
@@ -19,6 +19,9 @@ $ python2 run.py touch (untuk crack touch fb)
 ```
 
 # Catatan
-Silakan Perbarui Tools Nya
-Ketik : git pull
+Silakan Perbarui Tools Nya Agar Mendapatkan Fiture Terbaru
+* Ketik : git pull
 Mohon Hargai Pembuat Terimakasih
+
+# Info Updated
+* V1 : Fix Bug Dan Error Dan Add Method Touch FB
