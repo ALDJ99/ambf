@@ -21,7 +21,7 @@ $ python2 run.py touch (untuk crack touch fb)
 # Catatan
 Silakan Perbarui Tools Nya Agar Mendapatkan Fiture Terbaru
 * Ketik : git pull
-Mohon Hargai Pembuat Terimakasih
+* Mohon Hargai Pembuat Terimakasih
 
 # Info Updated
 * V1 : Fix Bug Dan Error Dan Add Method Touch FB
