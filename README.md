@@ -2,7 +2,7 @@ Hallo Pengguna <b>A-MBF<b/>, Jika Kalian Menggunakan Script Ini Silakan Gunakan 
 , Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun<b/>
 
 Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
-* [Facebook] (https://facebook.com/gaaaarzxd) 
+* [Admin](https://Facebook.com/gaaaarzxd)
 
 # Perintah
 ```
