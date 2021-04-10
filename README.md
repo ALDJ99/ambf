@@ -1,8 +1,9 @@
-Hallo Pengguna <b>A-MBF<b/>, Jika Kalian Menggunakan Script Ini Silakan Gunakan Akun Tumbal Jangan Pernah Gunakan Akun Pribadi
+Hallo Pengguna A-MBF, Jika Kalian Menggunakan Script Ini Silakan Gunakan Akun Tumbal Jangan Pernah Gunakan Akun Pribadi
 , Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun<b/>
 
 Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
-* [Admin](https://Facebook.com/gaaaarzxd)
+* [Facebook](https://fb.me/gaaaarzxd)
+* [Messenger](https://m.me/gaaaarzxd)
 
 # Perintah
 ```
@@ -18,7 +19,7 @@ $ python2 run.py touch (untuk crack touch fb)
 
 # Catatan
 Silakan Perbarui Tools Nya Agar Mendapatkan Fiture Terbaru
-* Ketik : <b>git pull<b/>
+* Ketik : git pull
 * Gunakan Sewajarnya
 * Mohon Hargai Pembuat Terimakasih
 
