@@ -1,5 +1,5 @@
 Hallo Pengguna A-MBF, Jika Kalian Menggunakan Script Ini Silakan Gunakan Akun Tumbal Jangan Pernah Gunakan Akun Pribadi
-, Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun<b/>
+, Karna Saya Tidak Bertanggung Jawab Dalam Hal Apapun. 
 
 Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
 * [Facebook](https://fb.me/gaaaarzxd)
@@ -8,13 +8,17 @@ Jika Ada Bug/Error Pada Script Kalian Bisa Laporkan Ke :
 # Perintah
 ```
 $ pkg install python2 git
-$ pip2 install requests mechanize
+$ pip2 install requests
 $ git clone https://github.com/anggaxd/ambf
 $ cd ambf
-$ python2 run.py
+$ python2 run.py 
+```
 
-<silakan di perbarui tools nya>
-$ python2 run.py touch (untuk crack touch fb) 
+Jika Ingin Crack Menggunakan Method Touch Facebook
+Kalian Tinggal Ketik :
+```
+<method ini di rekomendasikan pengguna wifi>
+$ python2 run.py touch
 ```
 
 # Catatan
