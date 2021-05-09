@@ -14,18 +14,6 @@ $ cd ambf
 $ python2 run.py 
 ```
 
-Jika Ingin Crack Menggunakan Method Touch Facebook
-Kalian Tinggal Ketik :
-```
-<method ini di rekomendasikan pengguna wifi>
-$ python2 run.py touch
-```
-
 # Catatan
 Silakan Perbarui Tools Nya Agar Mendapatkan Fiture Terbaru
 * Ketik : git pull
-* Gunakan Sewajarnya
-* Mohon Hargai Pembuat Terimakasih
-
-# Info Updated
-* V1 : Fix Bug Dan Error Dan Add Method TOUCHFB
